@@ -1,2 +1,3 @@
 # background-changer
-Chrome extension to change background color
+Chrome extension to change background color of the active tab
+
